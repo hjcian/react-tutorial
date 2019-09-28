@@ -32,7 +32,7 @@
 1. 去 [Github](https://github.com/) 創建專案
 2. git clone 你的專案
 
-***commands***
+***Terminal View***
 ```bash
 $ git clone https://github.com/YourAccountName/YourProjectName.git
 # Clone with HTTPS，輸入密碼吧！
@@ -48,7 +48,7 @@ $ cd YourProjectName
 3. 鍵入 `yarn start`，開啟 Hello React，應該會看到瀏覽器開啟以下畫面，就表示可以開始開發了。
     - ![image](./hello-react.PNG)   
 
-***commands***
+***Terminal View***
 ```bash
 $ create-react-app . 
 # 安裝需要一段時間，會陸續噴出安裝過程，注意最後有四條指令的教學，目前只會用到 yarn start 與 yarn build
