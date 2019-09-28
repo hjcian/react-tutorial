@@ -41,7 +41,7 @@ $ cd YourProjectName
 ```
 
 ### 2. Using create-react-app
-1. 於目前路徑初始化 reat 專案
+1. 於目前路徑初始化 react 專案
 2. 安裝完成後，目前僅需要以下兩種指令：
     - `yarn start`. Starts the development server. **開發中**，一律使用此指令開始工作
     - `yarn build`. Bundles the app into static files for production. **開發完**，將程式碼打包成可部屬的靜態檔案
