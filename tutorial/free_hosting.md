@@ -44,5 +44,5 @@
 10. done, check your site in browser
     - 接著可以看到資訊卡上的網域皆變成你想要的網域
     - ![img](./img/netlify-done1.png)
-    - click the highlighted URL to your site，可以在 URL bar 上看到已可以連向你客製的網址
+    - click the highlighted URL ([my site](https://react-tutorial-maxcian.netlify.com/)) to your site，可以在 URL bar 上看到已可以連向你客製的網址
     - ![img](./img/netlify-done2.png)
