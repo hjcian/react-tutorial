@@ -1,5 +1,5 @@
 # 基礎介紹
-## intro to preject files
+## Intro to preject files
 - this project structure
     - what is README.md
     - what is .gitignore    
