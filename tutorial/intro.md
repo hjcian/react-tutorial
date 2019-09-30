@@ -1,4 +1,5 @@
-# General
+# 基礎介紹
+## intro to preject files
 - this project structure
     - what is README.md
     - what is .gitignore    
@@ -7,7 +8,7 @@
     - the entry point of your app: index.html <- index.js <- App.js    
 - node_modules/
 
-# Node.js & javascript
+## Node.js & javascript
 - `node --version`
 - type `node` into REPL (讀取-求值-輸出循環(Read-Eval-Print Loop)，是一個簡單的、交互的編程環境)
     - 舉個其他語言的例子
@@ -100,13 +101,13 @@
     - callbacks
     - npm
 
-## references
+### references
 - https://blog.kdchang.cc/2016/12/21/javascript101-tutorial/
 - [ES5 vs. ES6](https://ithelp.ithome.com.tw/articles/10206587)
 - [JavaScript Interview Questions](https://www.fullstacktutorials.com/interviews/advanced-javascript-interview-questions-and-answers-for-experienced-12.html)
 - [ES6 Interview Questions](https://www.fullstacktutorials.com/interviews/javascript-es6-interview-questions-11.html)
 
-# React.js
+## React.js
 - pure function vs. React component
 - must ***return*** A ROOT element
 - use ***className*** in React.js instead ***class*** in HTML
