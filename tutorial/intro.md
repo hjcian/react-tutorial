@@ -104,7 +104,7 @@
 - must ***return*** A ROOT element
 - use ***className*** in React.js instead ***class*** in HTML
 
-### references
+## References
 - [javascript101-tutorial](https://blog.kdchang.cc/2016/12/21/javascript101-tutorial/)
 - [ES5 vs. ES6](https://ithelp.ithome.com.tw/articles/10206587)
 - [JavaScript Interview Questions](https://www.fullstacktutorials.com/interviews/advanced-javascript-interview-questions-and-answers-for-experienced-12.html)
