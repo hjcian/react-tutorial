@@ -9,6 +9,8 @@
     - 豐富插件加速開發
 - VS Code extensions
     - StandardJS - JavaScript Standard Style
+      - also need `npm install -g standard`
+      - 
     - GitLens
 - Basic Knowledge/Skills
     - common Linux command
@@ -46,7 +48,7 @@ $ cd YourProjectName
     - `yarn start`. Starts the development server. **開發中**，一律使用此指令開始工作
     - `yarn build`. Bundles the app into static files for production. **開發完**，將程式碼打包成可部屬的靜態檔案
 3. 鍵入 `yarn start`，開啟 Hello React，應該會看到瀏覽器開啟以下畫面，就表示可以開始開發了。
-    - ![image](./hello-react.PNG)   
+    - ![image](img/hello-react.PNG)   
 
 ***Terminal View***
 ```bash
